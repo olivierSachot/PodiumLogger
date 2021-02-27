@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : Enregistrez toutes vos compétitions
     description                           : Enregistrez vos classements et vos chronos ainsi que ceux de vos amis.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : running
     
   - title                                 : Ajouter des photos
     description                           : Pour chaque compétition, ajoutez des photos souvenirs.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : images
 
   - title                                 : Retrouvez facilement vos compétitions
     description                           : Les compétitions peuvent être filtrées par sport et par personne. Elles peuvent être triées par date, nom, classement, vitesse et distance.
