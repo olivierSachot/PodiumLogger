@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Statistiques
-    description                           : Obtenez des statistiques sur vos compétitions : distance totale, meilleur classement, ...
+    description                           : Obtenez des statistiques sur vos compétitions (distance totale, meilleur classement, ...)
     fontawesome_icon_name                 : star
 
   - title                                 : Exportation
