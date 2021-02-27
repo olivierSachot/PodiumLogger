@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Notes de version
 include_in_header: true
 ---
 
