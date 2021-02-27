@@ -58,12 +58,12 @@ features                                  :
     description                           : Obtenez des statistiques sur vos compétitions : distance totale, meilleur classement, ...
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Exportation
+    description                           : Il est possible d'exporter la liste des compétitions, la carte ainsi que les statistiques.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Montres connectées
+    description                           : Les données enregistrées dans votre iPhone à l'aide de votre montre connectée peuvent être utilisées pour créer des compétitions.
     fontawesome_icon_name                 : link
 
   - title                                 : FontAwesome Support
