@@ -38,7 +38,7 @@ features                                  :
     description                           : Enregistrez vos classements et vos chronos ainsi que ceux de vos amis.
     fontawesome_icon_name                 : running
     
-  - title                                 : Ajouter des photos
+  - title                                 : Ajoutez des photos
     description                           : Pour chaque compétition, ajoutez des photos souvenirs.
     fontawesome_icon_name                 : images
 
@@ -46,7 +46,7 @@ features                                  :
     description                           : Les compétitions peuvent être filtrées par sport et par personne. Elles peuvent être triées par date, nom, classement, vitesse et distance.
     fontawesome_icon_name                 : sort
 
-  - title                                 : Partager vos données avec vos amis.
+  - title                                 : Partagez vos données avec vos amis.
     description                           : Les données peuvent être partagées entre utilisateurs de "Podium Logger" simplement par e-mail.
     fontawesome_icon_name                 : share
 
@@ -69,7 +69,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#F2385A"
+topbar_color                              : "#000000"
 topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
@@ -81,7 +81,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#F2385A"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
