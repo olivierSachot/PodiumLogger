@@ -8,6 +8,6 @@ include_in_header: true
 
 <br>
 
-# **Version 1.0**
+## Version 1.0
 
-Version initiale
+Version initiale.
