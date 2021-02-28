@@ -4,7 +4,7 @@ title: Politique de confidentialité
 include_in_header: false
 ---
 
-**Last updated**  
+**Dernière mise à jour**  
 28 Février 2021
 
 # Politique de confidentialité
