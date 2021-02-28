@@ -46,7 +46,7 @@ features                                  :
     description                           : Les compétitions peuvent être filtrées par sport et par personne. Elles peuvent être triées par date, nom, classement, vitesse et distance.
     fontawesome_icon_name                 : sort
 
-  - title                                 : Partagez vos données avec vos amis.
+  - title                                 : Partagez vos données avec vos amis
     description                           : Les données peuvent être partagées entre utilisateurs de "Podium Logger" simplement par e-mail.
     fontawesome_icon_name                 : share
 
