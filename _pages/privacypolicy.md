@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+28 Février 2021
 
 # Politique de confidentialité
 Podium Logger stocke ses données uniquement en local sur votre iPhone. Rien n'est envoyé à des serveurs.
