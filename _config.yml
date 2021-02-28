@@ -60,7 +60,7 @@ features                                  :
     
   - title                                 : Montres connectées
     description                           : Les données enregistrées dans votre iPhone à l'aide de votre montre connectée peuvent être utilisées pour créer des compétitions.
-    fontawesome_icon_name                 : watch
+    fontawesome_icon_name                 : heartbeat
 
   - title                                 : Exportation
     description                           : Il est possible d'exporter la liste des compétitions, la carte ainsi que les statistiques.
@@ -69,7 +69,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#F2385A"
 topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
